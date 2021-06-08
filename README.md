@@ -4,14 +4,19 @@ In this project the predictions are done using linear regression and svr
 
 In src folder the source file is present which is implemented using python in jupyter notebook
 
-Dataset Link from Kaggle: Rainfall in India
+**Dataset Link from Kaggle: Rainfall in India**
 
 •	Dataset1(dataset1): This dataset has average rainfall from 1951-2000 for each district, for every month.
 
 •	Dataset2(dataset2): This dataset has average rainfall for every year from 1901-2015 for each state.
 
-Technology:
+
+**Technology:**
 
 •	Programming Language: Python
 
 •	Libraries: numpy, pandas, matplotlib, seaborn, keras, scipy, sklearn
+
+
+**conclusion:**
+"Observations indicates machine learning models won't work well for prediction of rainfall due to fluctuations in rainfall."
